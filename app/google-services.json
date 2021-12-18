@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "912028523104",
+    "project_id": "authentication-app-dad09",
+    "storage_bucket": "authentication-app-dad09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912028523104:android:68548ff9300a89f7450105",
+        "android_client_info": {
+          "package_name": "hu.unideb.inf.mobilef10.maria.authenticationapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912028523104-i0cufk20f32db3b9rt5du8a8coec59i4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAe51tN7Da7g9Ls9VSHmW2_NkMiFyctI2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912028523104-i0cufk20f32db3b9rt5du8a8coec59i4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
